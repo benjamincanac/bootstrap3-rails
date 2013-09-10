@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Bootstrap3::Rails::VERSION
   spec.authors       = ["Benjamin Canac"]
   spec.email         = ["canacb1@gmail.com"]
-  spec.description   = %q{Add Bootstrap v3.0.0 RC1 to your rails app. See https://github.com/twbs/bootstrap/ for more information about Bootstrap v3.0.0 RC1.}
-  spec.summary       = %q{Add Bootstrap v3.0.0 RC1 to your rails app.}
+  spec.description   = %q{Add Bootstrap v3.0.0 to your rails app. See https://github.com/twbs/bootstrap/ for more information about Bootstrap v3.0.0 RC1.}
+  spec.summary       = %q{Add Bootstrap v3.0.0 to your rails app.}
   spec.homepage      = "https://github.com/benjamincanac/bootstrap3-rails"
   spec.license       = "MIT"
 

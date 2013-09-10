@@ -1,8 +1,8 @@
 # Bootstrap3::Rails
 
-Easily add [Bootstrap v3.0.0 RC1](https://github.com/twbs/bootstrap/) to your Rails application using the asset pipeline.
+Easily add [Bootstrap v3.0.0](https://github.com/twbs/bootstrap/) to your Rails application using the asset pipeline.
 
-More informations about Bootstrap v3.0.0 RC1 on (http://getbootstrap.com/).
+More informations about Bootstrap v3.0.0 on (http://getbootstrap.com/).
 
 ## Installation
 
